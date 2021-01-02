@@ -1,0 +1,65 @@
+<?php
+echo "My first PHP script"
+?>
+
+WHAT IS IT:
+"PHP: Hypertext Preprocessor"
+open source scripting langauge
+executed on the server
+
+it can contain text, HTML, CSS, Javascript, and PHP code
+PHP code is executed on the server, and the result is the returned to the browser as plain HTML
+
+php file has .php
+
+generate dynamic page content
+create, open, read, write, delete, and close files on the server
+collect from data
+send and receive cookies
+add, delete, modify data in your database
+used control user-access
+encrypt data
+
+SYNTAX
+
+starts with <?php ..... ?>
+
+<?php
+// PHP code goes here < note this is comment like Javascript
+?>
+
+^ the code will be (command "text" ;)
+
+keywords: if, else, while, echo, etc, classes, functions are not case sensitive
+
+ECHO echo EcHo < organized is better
+
+echo "..." . $color COLOR 
+
+<br> for line breaks 
+
+// and # are single line comment
+
+/* */ for multiple lines
+
+// ........
+$x = 5 /* +15 */ + 5;
+echo $x; <execute 10
+
+variables start with $ sign, followed by name of variables
+
+$txt = "Hello World";
+
+$x = 5;
+
+$y = 10.5;
+
+variables can only start with a letter
+ A-z, 0-9, _ can be used to make variable name
+
+ they are case sensitive 
+
+ PHP output: echo and print
+
+ 
+
