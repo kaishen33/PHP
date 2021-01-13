@@ -61,5 +61,17 @@ variables can only start with a letter
 
  PHP output: echo and print
 
- 
+echo or echo()
+print or print()
+
+DATA TYPES:
+
+String: sequence of characters "Hello World"
+Integer: integer data type is non-decimal number +/- 2171910
+Float: number with a decimal 2.5648283
+Boolean: true or false
+Array: stores multiple values in one single variable $(var name) =  array("...", "...", "...")
+Object: classes and objects
+NULL:
+Resource:
 
